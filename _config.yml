@@ -1,0 +1,28 @@
+name: DigitalMarketingCollection
+favicon: null
+layout_spectrum: 0.6420235990080982
+typography_spectrum: 0.5986517448909581
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.2752193540800363
+  lightness: 0.03393379435874522
+  saturation: 0.9021673651877791
+  rhythmicContrast: 0.19090741779655218
+purpose: []
