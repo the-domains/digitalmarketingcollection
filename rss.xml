@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DigitalMarketingCollection]]></title>
+        <description><![CDATA[DigitalMarketingCollection]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Jan 2016 17:29:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[start startup marketing blog]]></title>
+            <description><![CDATA[<article><h1>start startup marketing blog</h1><p>This is the start.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/764aef68a11f2ffd2adfc28ff758851f40d529b1.jpg"></article>]]></description>
+            <link>undefined8b93f702-4774-4bec-b029-f39c18815be8/index.html</link>
+            <guid isPermaLink="false">8b93f702-4774-4bec-b029-f39c18815be8</guid>
+            <pubDate>Fri, 08 Jan 2016 17:28:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
